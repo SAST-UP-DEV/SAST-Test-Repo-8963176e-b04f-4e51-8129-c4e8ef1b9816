@@ -29,7 +29,7 @@
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
-    "enableRemediation": false,
+    "enableRemediation": true,
     "incrementalScan": true,
     "snippetSize": 10,
     "baseBranches": []
